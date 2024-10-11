@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace IPO
 {
-    public partial class Form1 : Form
+    public partial class frmIPO : Form
     {
-        public Form1()
+        public frmIPO()
         {
             InitializeComponent();
         }
